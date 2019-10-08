@@ -45,10 +45,6 @@ public class UserInput{
         }
     }
 
-    public void yeah(){
-        System.out.println("good");
-    }
-
     public void exit(){
         System.out.println("");
         System.out.println("Closing application...");
